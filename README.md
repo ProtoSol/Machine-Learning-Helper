@@ -2,7 +2,7 @@
 
 ## Live Link
 
-[Machine Learning Helper](https://ml-model-builder.streamlit.app/)
+[Machine Learning Helper](https://machine-learning-buddy.streamlit.app/)
 
 ## Overview
 
